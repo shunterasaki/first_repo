@@ -1,5 +1,5 @@
 {
     "python.pythonPath": "/Users/shunterasaki/.local/share/virtualenvs/ec-U6r_t6xb/bin/python",
     "python.linting.flake8Enabled": true,
-    "python.linting.enabled": true
+    "python.linting.enabled": true,
 }
